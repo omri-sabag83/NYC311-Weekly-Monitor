@@ -7,7 +7,7 @@ categories, and geography compared with recent weeks, flags anomalies or
 emerging trends, and names areas worth a closer look.
 
 **This repo holds only the deliverable.** It's produced by a separate
-automation — [`Automations/04_nyc311_weekly_monitor`](../Automations/04_nyc311_weekly_monitor/) —
+automation — [`Automations/04_nyc311_weekly_monitor`](https://github.com/omri-sabag83/Automations/tree/main/04_nyc311_weekly_monitor) —
 which runs every Sunday 09:00, fetches that week's data itself, and writes
 the finished report straight into [`Reports/`](Reports/). See that folder's
 README for the schedule, the guardrails, and how it's tested.
